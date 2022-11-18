@@ -3045,7 +3045,7 @@ footer {
 }
 
 #count .count-wrapper {
-  background: $preset;
+
   border-radius: 4px;
   box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.08);
   margin-bottom: -35px;
