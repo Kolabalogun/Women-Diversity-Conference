@@ -3056,6 +3056,7 @@ footer {
   z-index: 999;
   display: inline-block;
   width: 100%;
+  background: #6a0dad;
 }
 
 .time-count div {
